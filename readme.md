@@ -36,9 +36,9 @@ Nappal Data Specialistként dolgozom, de szabadidőmben szívesen elmerülök a 
 
 Ha érdekesnek találtad az oldalt, keress bátran!
 
-* LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/)
-
-* web:** [https://www.yourportfolio.com](https://botkal.github.io/Page/)
+💼 ** LinkedIn:** [https://www.linkedin.com/in/botkal](https://www.linkedin.com/in/botkal)
+  
+🌐 ** Web:** [https://botkal.github.io/Page/](https://botkal.github.io/Page/)
 
 
 ---
@@ -82,6 +82,6 @@ By day, I work as a Data Specialist, but in my free time I love diving into code
 
 If you find my work interesting, feel free to reach out!
 
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
-
-* Website: https://botkal.github.io/Page/
+💼 ** LinkedIn:** [https://www.linkedin.com/in/botkal](https://www.linkedin.com/in/botkal)
+  
+🌐 ** Web:** [https://botkal.github.io/Page/](https://botkal.github.io/Page/)
