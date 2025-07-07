@@ -2,9 +2,10 @@
 
 ### Szoftverfejlesztő | Webfejlesztő | Lelkes Tanuló
 
-<p align="center">
+<p align="left">
   <a href="https://botkal.github.io/Page/" target="_blank">
-    <img src="https://img.shields.io/badge/io%20page-blue?style=for-the-badge" alt="io page" />
+    <img src="https://img.shields.io/badge/io-555555?style=for-the-badge&logoColor=white" alt="io" />
+    <img src="https://img.shields.io/badge/page-007BFF?style=for-the-badge&logoColor=white" alt="page" />
   </a>
 </p>
 
@@ -48,9 +49,10 @@ Ha érdekesnek találtad az oldalt, keress bátran!
 
 ### Software Developer | Web Developer | Curious Learner
 
-<p align="center">
+<p align="left">
   <a href="https://botkal.github.io/Page/" target="_blank">
-    <img src="https://img.shields.io/badge/io%20page-blue?style=for-the-badge" alt="io page" />
+    <img src="https://img.shields.io/badge/io-555555?style=for-the-badge&logoColor=white" alt="io" />
+    <img src="https://img.shields.io/badge/page-007BFF?style=for-the-badge&logoColor=white" alt="page" />
   </a>
 </p>
 
