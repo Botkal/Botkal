@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://botkal.github.io/Page/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/io%20page-blue?style=for-the-badge" alt="io page" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Ha érdekesnek találtad az oldalt, keress bátran!
 
 <p align="center">
   <a href="https://botkal.github.io/Page/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/io%20page-blue?style=for-the-badge" alt="io page" />
   </a>
 </p>
 
