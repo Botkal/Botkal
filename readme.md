@@ -2,6 +2,8 @@
 
 ### Szoftverfejlesztő | Webfejlesztő | Lelkes Tanuló
 
+[https://botkal.github.io/Page/](https://botkal.github.io/Page/)
+
 Üdvözöllek a GitHub profilomon! 🚀
 
 Elkötelezett vagyok a minőségi és hatékony megoldások iránt. Szeretem a kihívásokat, és folyamatosan keresem az új technológiákat és módszereket, hogy fejlődhessek.
@@ -41,6 +43,8 @@ Ha érdekesnek találtad az oldalt, keress bátran!
 ### Hi there! 👋 I'm László Botka
 
 ### Software Developer | Web Developer | Curious Learner
+
+[https://botkal.github.io/Page/](https://botkal.github.io/Page/)
 
 Welcome to my GitHub profile! 🚀
 
