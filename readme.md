@@ -2,7 +2,11 @@
 
 ### Szoftverfejlesztő | Webfejlesztő | Lelkes Tanuló
 
-[https://botkal.github.io/Page/](https://botkal.github.io/Page/)
+<p align="center">
+  <a href="https://botkal.github.io/Page/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+</p>
 
 Üdvözöllek a GitHub profilomon! 🚀
 
@@ -36,15 +40,19 @@ Ha érdekesnek találtad az oldalt, keress bátran!
 * web:** [https://www.yourportfolio.com](https://botkal.github.io/Page/)
 
 
-
-
+---
+---
 
 
 ### Hi there! 👋 I'm László Botka
 
 ### Software Developer | Web Developer | Curious Learner
 
-[https://botkal.github.io/Page/](https://botkal.github.io/Page/)
+<p align="center">
+  <a href="https://botkal.github.io/Page/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+</p>
 
 Welcome to my GitHub profile! 🚀
 
